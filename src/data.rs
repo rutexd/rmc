@@ -1,0 +1,1 @@
+pub const MANIFEST_JSON_URL: &str = "https://launchermeta.mojang.com/mc/game/version_manifest.json";
